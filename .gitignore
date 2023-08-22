@@ -1,0 +1,40 @@
+# Arquivos de compilação
+*.class
+
+# Diretórios de saída e artefatos de compilação
+bin/
+target/
+out/
+
+# Arquivos de configuração específicos da IDE (Eclipse)
+.classpath
+.project
+.settings/
+
+# Arquivos de configuração específicos da IDE (IntelliJ IDEA)
+.idea/
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.swp
+*~
+
+# Arquivos de histórico de sessão de depuração do Eclipse
+*.launch
+*.bak
+
+# Arquivos de histórico de sessão do IntelliJ IDEA
+*.iml
+
+# Cache do Maven
+/.mvn/
+
+# Arquivos de propriedades do Maven
+/mvnw.cmd
+/mvnw
+
+# Arquivo de registro do Maven
+/build.log
